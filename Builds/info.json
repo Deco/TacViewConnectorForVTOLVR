@@ -1,0 +1,20 @@
+{
+  "name": "TacViewConnectorForVTOLVR",
+  "description": "TacView integration for VTOL VR",
+  "dll_file": "C:\\why\\folders\\vtolvr\\My Mods\\TacViewForVTOLVR\\TacViewForVTOLVR\\bin\\Debug\\TacViewForVTOLVR.dll",
+  "last_edit": 637771103998445664,
+  "pub_id": "",
+  "json_version": "",
+  "version": "1.0.0",
+  "tagline": "",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "",
+  "web_preview_image": "",
+  "dependencies": [
+    
+  ],
+  "mod_dependencies": null,
+  "ContentType": 3
+}

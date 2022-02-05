@@ -1,0 +1,8 @@
+Dependencies Needed
+	0Harmony.dll
+	Assembly-CSharp.dll
+	ModLoader.dll
+	UnityEngine.CoreModule.dll
+	UnityEngine.PhysicsModule.dll
+	UnityEngine.dll
+	Facepunch.Steamworks.Win64.dll
